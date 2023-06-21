@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-  Install <a href="https://www.postgresql.org/download/">PostgreSQL</a>
+<a href="https://www.postgresql.org/download/">PostgreSQL</a>
 
 
 ### Usage
@@ -89,11 +89,11 @@ Install this project with:
 To run the project, execute the following command:
 
 
-```sh
-  Start Postgres server.
-  Run psql.
-  Create table.
-```
+
+  - Start Postgres server.
+  - Run psql.
+  - Create table.
+
 
 ### Run tests
 
