@@ -81,9 +81,8 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-```sh
   Install <a href="https://www.postgresql.org/download/">PostgreSQL</a>
-```
+
 
 ### Usage
 
