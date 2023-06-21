@@ -81,28 +81,23 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-```sh
-  cd my-project
-  gem install
-```
+<a href="https://www.postgresql.org/download/">PostgreSQL</a>
+
 
 ### Usage
 
 To run the project, execute the following command:
 
 
-```sh
-  rails server
-```
+
+  - Start Postgres server.
+  - Run psql.
+  - Create table.
+
 
 ### Run tests
 
-To run tests, run the following command:
-
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
+Not avaliable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
